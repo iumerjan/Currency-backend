@@ -1,0 +1,18 @@
+﻿[
+  {
+    "code": "INR",
+    "name": "Indian Rupee"
+  },
+  {
+    "code": "AUD",
+    "name": "Australian Dollar"
+  },
+  {
+    "code": "CAD",
+    "name": "Canadian Dollar"
+  },
+  {
+    "code": "JPY",
+    "name": "Japanese Yen"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\data",
+    "\\lib",
+    "\\lib\\Controllers",
+    "\\lib\\Controllers\\currency",
+    "\\lib\\json",
+    "\\lib\\Models",
+    "\\lib\\Models\\currency",
+    "\\lib\\Routes"
+  ],
+  "SelectedNode": "\\lib\\Routes\\currencyRoutes.ts",
+  "PreviewInSolutionExplorer": false
+}
